@@ -1,1 +1,1 @@
-# exo-tokena-ssets
+# exo-token-assets
